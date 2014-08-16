@@ -1,0 +1,9 @@
+{
+  "name": "jquery-slider",
+  "description": "Jquery slider library",
+  "homepage": "git@github.com:caioreis/meteor-slider.git",
+  "author": "Caio Moretti",
+  "version": "0.0.1",
+  "git": "git@github.com:caioreis/meteor-slider.git",
+  "packages": {}
+}
